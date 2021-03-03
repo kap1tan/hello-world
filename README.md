@@ -1,4 +1,3 @@
-# hello-world
-This is for test purpose only
+# Artūras Nikončukas
 
-This bit is about myself.
+my personal space
